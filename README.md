@@ -1,2 +1,1 @@
-# hello-world
-My first entry into coding world. Be gentle.
+I guess I'll have to learn how to fix my car next.
